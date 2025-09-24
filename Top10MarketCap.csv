@@ -1,235 +1,235 @@
 year,company,market_cap_usd
-2025,Nvidia,$4.470 T
-2024,Nvidia,$3.355 T
-2023,Nvidia,$1.223 T
-2022,Nvidia,$364.18 B
-2021,Nvidia,$735.27 B
-2020,Nvidia,$323.24 B
-2019,Nvidia,$144.00 B
-2018,Nvidia,$81.43 B
-2017,Nvidia,$117.26 B
-2016,Nvidia,$57.53 B
-2015,Nvidia,$17.73 B
-2014,Nvidia,$10.89 B
-2013,Nvidia,$9.10 B
-2012,Nvidia,$7.66 B
-2011,Nvidia,$8.46 B
-2010,Nvidia,$8.94 B
-2009,Nvidia,$10.36 B
-2008,Nvidia,$4.33 B
-2007,Nvidia,$18.90 B
-2006,Nvidia,$13.15 B
-2005,Nvidia,$6.25 B
-2004,Nvidia,$3.91 B
-2003,Nvidia,$2.50 B
-2002,Nvidia,$1.20 B
-2001,Nvidia,$6.44 B
-2000,Nvidia,$2.22 B
-1999,Nvidia,$0.96 B
-2025,Microsoft,$3.823 T
-2024,Microsoft,$3.200 T
-2023,Microsoft,$2.794 T
-2022,Microsoft,$1.787 T
-2021,Microsoft,$2.522 T
-2020,Microsoft,$1.681 T
-2019,Microsoft,$1.200 T
-2018,Microsoft,$780.36 B
-2017,Microsoft,$659.90 B
-2016,Microsoft,$483.16 B
-2015,Microsoft,$439.67 B
-2014,Microsoft,$381.72 B
-2013,Microsoft,$310.50 B
-2012,Microsoft,$223.66 B
-2011,Microsoft,$218.38 B
-2010,Microsoft,$234.52 B
-2009,Microsoft,$268.55 B
-2008,Microsoft,$172.92 B
-2007,Microsoft,$332.11 B
-2006,Microsoft,$291.94 B
-2005,Microsoft,$271.54 B
-2004,Microsoft,$290.71 B
-2003,Microsoft,$295.29 B
-2002,Microsoft,$276.63 B
-2001,Microsoft,$358.05 B
-2000,Microsoft,$230.80 B
-1999,Microsoft,$604.41 B
-1998,Microsoft,$348.10 B
-1997,Microsoft,$157.36 B
-1996,Microsoft,$99.41 B
-2025,Apple,$3.775 T
-2024,Apple,$3.863 T
-2023,Apple,$2.994 T
-2022,Apple,$2.066 T
-2021,Apple,$2.901 T
-2020,Apple,$2.255 T
-2019,Apple,$1.287 T
-2018,Apple,$746.07 B
-2017,Apple,$860.88 B
-2016,Apple,$608.96 B
-2015,Apple,$583.61 B
-2014,Apple,$643.12 B
-2013,Apple,$500.74 B
-2012,Apple,$499.69 B
-2011,Apple,$377.51 B
-2010,Apple,$297.09 B
-2009,Apple,$190.98 B
-2008,Apple,$75.99 B
-2007,Apple,$174.03 B
-2006,Apple,$72.98 B
-2005,Apple,$60.79 B
-2004,Apple,$26.05 B
-2003,Apple,$7.88 B
-2002,Apple,$5.16 B
-2001,Apple,$7.71 B
-2000,Apple,$5.13 B
-1999,Apple,$16.57 B
-1998,Apple,$5.54 B
-1997,Apple,$1.68 B
-1996,Apple,$2.60 B
-2025,Alphabet,$3.049 T
-2024,Alphabet,$2.365 T
-2023,Alphabet,$1.756 T
-2022,Alphabet,$1.145 T
-2021,Alphabet,$1.917 T
-2020,Alphabet,$1.185 T
-2019,Alphabet,$921.13 B
-2018,Alphabet,$723.55 B
-2017,Alphabet,$729.45 B
-2016,Alphabet,$539.06 B
-2015,Alphabet,$528.16 B
 2014,Alphabet,$359.50 B
-2025,Amazon,$2.353 T
-2024,Amazon,$2.352 T
-2023,Amazon,$1.570 T
-2022,Amazon,$856.94 B
-2021,Amazon,$1.691 T
-2020,Amazon,$1.634 T
-2019,Amazon,$920.22 B
-2018,Amazon,$737.46 B
-2017,Amazon,$563.53 B
-2016,Amazon,$356.31 B
-2015,Amazon,$318.34 B
-2014,Amazon,$144.31 B
-2013,Amazon,$183.04 B
-2012,Amazon,$113.89 B
-2011,Amazon,$78.71 B
-2010,Amazon,$81.18 B
-2009,Amazon,$59.72 B
-2008,Amazon,$21.99 B
-2007,Amazon,$38.53 B
-2006,Amazon,$16.33 B
-2005,Amazon,$19.61 B
-2004,Amazon,$18.14 B
-2003,Amazon,$21.22 B
-2002,Amazon,$7.32 B
-2001,Amazon,$4.03 B
-2000,Amazon,$5.55 B
-1999,Amazon,$26.27 B
-1998,Amazon,$17.05 B
+2015,Alphabet,$528.16 B
+2016,Alphabet,$539.06 B
+2017,Alphabet,$729.45 B
+2018,Alphabet,$723.55 B
+2019,Alphabet,$921.13 B
+2020,Alphabet,$1.185 T
+2021,Alphabet,$1.917 T
+2022,Alphabet,$1.145 T
+2023,Alphabet,$1.756 T
+2024,Alphabet,$2.365 T
+2025,Alphabet,$3.049 T
 1997,Amazon,$1.44 B
-2025,Meta,$1.897 T
-2024,Meta,$1.514 T
-2023,Meta,$909.62 B
-2022,Meta,$319.88 B
-2021,Meta,$921.93 B
-2020,Meta,$778.23 B
-2019,Meta,$585.37 B
-2018,Meta,$374.13 B
-2017,Meta,$512.75 B
-2016,Meta,$331.59 B
-2015,Meta,$296.60 B
-2014,Meta,$216.73 B
-2013,Meta,$139.19 B
-2012,Meta,$63.14 B
-2025,Broadcom,$1.600 T
-2024,Broadcom,$1.133 T
-2023,Broadcom,$461.01 B
-2022,Broadcom,$233.65 B
-2021,Broadcom,$274.73 B
-2020,Broadcom,$178.07 B
-2019,Broadcom,$125.71 B
-2018,Broadcom,$103.56 B
-2017,Broadcom,$105.16 B
-2016,Broadcom,$70.52 B
-2015,Broadcom,$40.13 B
-2014,Broadcom,$25.68 B
-2013,Broadcom,$13.16 B
-2012,Broadcom,$7.77 B
-2011,Broadcom,$7.05 B
-2010,Broadcom,$6.86 B
-2009,Broadcom,$4.30 B
-2025,Tesla,$1.416 T
-2024,Tesla,$1.385 T
-2023,Tesla,$789.89 B
-2022,Tesla,$388.97 B
-2021,Tesla,$1.061 T
-2020,Tesla,$668.90 B
-2019,Tesla,$75.71 B
-2018,Tesla,$57.44 B
-2017,Tesla,$52.32 B
-2016,Tesla,$34.42 B
-2015,Tesla,$31.54 B
-2014,Tesla,$27.95 B
-2013,Tesla,$18.51 B
-2012,Tesla,$3.86 B
-2011,Tesla,$2.97 B
-2010,Tesla,$2.52 B
-2025,Berkshire Hathaway,$1.066 T
-2024,Berkshire Hathaway,$983.86 B
-2023,Berkshire Hathaway,$777.45 B
-2022,Berkshire Hathaway,$681.77 B
-2021,Berkshire Hathaway,$669.12 B
-2020,Berkshire Hathaway,$543.67 B
-2019,Berkshire Hathaway,$551.96 B
-2018,Berkshire Hathaway,$502.37 B
-2017,Berkshire Hathaway,$489.24 B
-2016,Berkshire Hathaway,$401.64 B
-2015,Berkshire Hathaway,$325.28 B
-2014,Berkshire Hathaway,$370.66 B
-2013,Berkshire Hathaway,$292.41 B
-2012,Berkshire Hathaway,$220.61 B
-2011,Berkshire Hathaway,$189.21 B
-2010,Berkshire Hathaway,$198.31 B
-2009,Berkshire Hathaway,$153.62 B
-2008,Berkshire Hathaway,$149.56 B
-2007,Berkshire Hathaway,$219.37 B
-2006,Berkshire Hathaway,$169.64 B
-2005,Berkshire Hathaway,$136.38 B
-2004,Berkshire Hathaway,$135.30 B
-2003,Berkshire Hathaway,$129.51 B
-2002,Berkshire Hathaway,$111.63 B
-2001,Berkshire Hathaway,$115.56 B
-2000,Berkshire Hathaway,$108.25 B
-1999,Berkshire Hathaway,$85.08 B
-1998,Berkshire Hathaway,$90.93 B
-1997,Berkshire Hathaway,$56.77 B
+1998,Amazon,$17.05 B
+1999,Amazon,$26.27 B
+2000,Amazon,$5.55 B
+2001,Amazon,$4.03 B
+2002,Amazon,$7.32 B
+2003,Amazon,$21.22 B
+2004,Amazon,$18.14 B
+2005,Amazon,$19.61 B
+2006,Amazon,$16.33 B
+2007,Amazon,$38.53 B
+2008,Amazon,$21.99 B
+2009,Amazon,$59.72 B
+2010,Amazon,$81.18 B
+2011,Amazon,$78.71 B
+2012,Amazon,$113.89 B
+2013,Amazon,$183.04 B
+2014,Amazon,$144.31 B
+2015,Amazon,$318.34 B
+2016,Amazon,$356.31 B
+2017,Amazon,$563.53 B
+2018,Amazon,$737.46 B
+2019,Amazon,$920.22 B
+2020,Amazon,$1.634 T
+2021,Amazon,$1.691 T
+2022,Amazon,$856.94 B
+2023,Amazon,$1.570 T
+2024,Amazon,$2.352 T
+2025,Amazon,$2.353 T
+1996,Apple,$2.60 B
+1997,Apple,$1.68 B
+1998,Apple,$5.54 B
+1999,Apple,$16.57 B
+2000,Apple,$5.13 B
+2001,Apple,$7.71 B
+2002,Apple,$5.16 B
+2003,Apple,$7.88 B
+2004,Apple,$26.05 B
+2005,Apple,$60.79 B
+2006,Apple,$72.98 B
+2007,Apple,$174.03 B
+2008,Apple,$75.99 B
+2009,Apple,$190.98 B
+2010,Apple,$297.09 B
+2011,Apple,$377.51 B
+2012,Apple,$499.69 B
+2013,Apple,$500.74 B
+2014,Apple,$643.12 B
+2015,Apple,$583.61 B
+2016,Apple,$608.96 B
+2017,Apple,$860.88 B
+2018,Apple,$746.07 B
+2019,Apple,$1.287 T
+2020,Apple,$2.255 T
+2021,Apple,$2.901 T
+2022,Apple,$2.066 T
+2023,Apple,$2.994 T
+2024,Apple,$3.863 T
+2025,Apple,$3.775 T
 1996,Berkshire Hathaway,$42.00 B
-2025,TSMC,$1.466 T
-2024,TSMC,$1.045 T
-2023,TSMC,$539.38 B
-2022,TSMC,$386.31 B
-2021,TSMC,$575.93 B
-2020,TSMC,$488.12 B
-2019,TSMC,$286.57 B
-2018,TSMC,$191.19 B
-2017,TSMC,$199.41 B
-2016,TSMC,$145.70 B
-2015,TSMC,$109.64 B
-2014,TSMC,$115.31 B
-2013,TSMC,$91.39 B
-2012,TSMC,$86.83 B
-2011,TSMC,$65.31 B
-2010,TSMC,$63.55 B
-2009,TSMC,$52.21 B
-2008,TSMC,$40.48 B
-2007,TSMC,$51.04 B
-2006,TSMC,$56.46 B
-2005,TSMC,$49.01 B
-2004,TSMC,$39.48 B
-2003,TSMC,$41.51 B
-2002,TSMC,$26.26 B
-2001,TSMC,$57.80 B
-2000,TSMC,$40.32 B
-1999,TSMC,$69.03 B
-1998,TSMC,$17.17 B
+1997,Berkshire Hathaway,$56.77 B
+1998,Berkshire Hathaway,$90.93 B
+1999,Berkshire Hathaway,$85.08 B
+2000,Berkshire Hathaway,$108.25 B
+2001,Berkshire Hathaway,$115.56 B
+2002,Berkshire Hathaway,$111.63 B
+2003,Berkshire Hathaway,$129.51 B
+2004,Berkshire Hathaway,$135.30 B
+2005,Berkshire Hathaway,$136.38 B
+2006,Berkshire Hathaway,$169.64 B
+2007,Berkshire Hathaway,$219.37 B
+2008,Berkshire Hathaway,$149.56 B
+2009,Berkshire Hathaway,$153.62 B
+2010,Berkshire Hathaway,$198.31 B
+2011,Berkshire Hathaway,$189.21 B
+2012,Berkshire Hathaway,$220.61 B
+2013,Berkshire Hathaway,$292.41 B
+2014,Berkshire Hathaway,$370.66 B
+2015,Berkshire Hathaway,$325.28 B
+2016,Berkshire Hathaway,$401.64 B
+2017,Berkshire Hathaway,$489.24 B
+2018,Berkshire Hathaway,$502.37 B
+2019,Berkshire Hathaway,$551.96 B
+2020,Berkshire Hathaway,$543.67 B
+2021,Berkshire Hathaway,$669.12 B
+2022,Berkshire Hathaway,$681.77 B
+2023,Berkshire Hathaway,$777.45 B
+2024,Berkshire Hathaway,$983.86 B
+2025,Berkshire Hathaway,$1.066 T
+2009,Broadcom,$4.30 B
+2010,Broadcom,$6.86 B
+2011,Broadcom,$7.05 B
+2012,Broadcom,$7.77 B
+2013,Broadcom,$13.16 B
+2014,Broadcom,$25.68 B
+2015,Broadcom,$40.13 B
+2016,Broadcom,$70.52 B
+2017,Broadcom,$105.16 B
+2018,Broadcom,$103.56 B
+2019,Broadcom,$125.71 B
+2020,Broadcom,$178.07 B
+2021,Broadcom,$274.73 B
+2022,Broadcom,$233.65 B
+2023,Broadcom,$461.01 B
+2024,Broadcom,$1.133 T
+2025,Broadcom,$1.600 T
+2012,Meta,$63.14 B
+2013,Meta,$139.19 B
+2014,Meta,$216.73 B
+2015,Meta,$296.60 B
+2016,Meta,$331.59 B
+2017,Meta,$512.75 B
+2018,Meta,$374.13 B
+2019,Meta,$585.37 B
+2020,Meta,$778.23 B
+2021,Meta,$921.93 B
+2022,Meta,$319.88 B
+2023,Meta,$909.62 B
+2024,Meta,$1.514 T
+2025,Meta,$1.897 T
+1996,Microsoft,$99.41 B
+1997,Microsoft,$157.36 B
+1998,Microsoft,$348.10 B
+1999,Microsoft,$604.41 B
+2000,Microsoft,$230.80 B
+2001,Microsoft,$358.05 B
+2002,Microsoft,$276.63 B
+2003,Microsoft,$295.29 B
+2004,Microsoft,$290.71 B
+2005,Microsoft,$271.54 B
+2006,Microsoft,$291.94 B
+2007,Microsoft,$332.11 B
+2008,Microsoft,$172.92 B
+2009,Microsoft,$268.55 B
+2010,Microsoft,$234.52 B
+2011,Microsoft,$218.38 B
+2012,Microsoft,$223.66 B
+2013,Microsoft,$310.50 B
+2014,Microsoft,$381.72 B
+2015,Microsoft,$439.67 B
+2016,Microsoft,$483.16 B
+2017,Microsoft,$659.90 B
+2018,Microsoft,$780.36 B
+2019,Microsoft,$1.200 T
+2020,Microsoft,$1.681 T
+2021,Microsoft,$2.522 T
+2022,Microsoft,$1.787 T
+2023,Microsoft,$2.794 T
+2024,Microsoft,$3.200 T
+2025,Microsoft,$3.823 T
+1999,Nvidia,$0.96 B
+2000,Nvidia,$2.22 B
+2001,Nvidia,$6.44 B
+2002,Nvidia,$1.20 B
+2003,Nvidia,$2.50 B
+2004,Nvidia,$3.91 B
+2005,Nvidia,$6.25 B
+2006,Nvidia,$13.15 B
+2007,Nvidia,$18.90 B
+2008,Nvidia,$4.33 B
+2009,Nvidia,$10.36 B
+2010,Nvidia,$8.94 B
+2011,Nvidia,$8.46 B
+2012,Nvidia,$7.66 B
+2013,Nvidia,$9.10 B
+2014,Nvidia,$10.89 B
+2015,Nvidia,$17.73 B
+2016,Nvidia,$57.53 B
+2017,Nvidia,$117.26 B
+2018,Nvidia,$81.43 B
+2019,Nvidia,$144.00 B
+2020,Nvidia,$323.24 B
+2021,Nvidia,$735.27 B
+2022,Nvidia,$364.18 B
+2023,Nvidia,$1.223 T
+2024,Nvidia,$3.355 T
+2025,Nvidia,$4.470 T
+2010,Tesla,$2.52 B
+2011,Tesla,$2.97 B
+2012,Tesla,$3.86 B
+2013,Tesla,$18.51 B
+2014,Tesla,$27.95 B
+2015,Tesla,$31.54 B
+2016,Tesla,$34.42 B
+2017,Tesla,$52.32 B
+2018,Tesla,$57.44 B
+2019,Tesla,$75.71 B
+2020,Tesla,$668.90 B
+2021,Tesla,$1.061 T
+2022,Tesla,$388.97 B
+2023,Tesla,$789.89 B
+2024,Tesla,$1.385 T
+2025,Tesla,$1.416 T
 1997,TSMC,$14.84 B
+1998,TSMC,$17.17 B
+1999,TSMC,$69.03 B
+2000,TSMC,$40.32 B
+2001,TSMC,$57.80 B
+2002,TSMC,$26.26 B
+2003,TSMC,$41.51 B
+2004,TSMC,$39.48 B
+2005,TSMC,$49.01 B
+2006,TSMC,$56.46 B
+2007,TSMC,$51.04 B
+2008,TSMC,$40.48 B
+2009,TSMC,$52.21 B
+2010,TSMC,$63.55 B
+2011,TSMC,$65.31 B
+2012,TSMC,$86.83 B
+2013,TSMC,$91.39 B
+2014,TSMC,$115.31 B
+2015,TSMC,$109.64 B
+2016,TSMC,$145.70 B
+2017,TSMC,$199.41 B
+2018,TSMC,$191.19 B
+2019,TSMC,$286.57 B
+2020,TSMC,$488.12 B
+2021,TSMC,$575.93 B
+2022,TSMC,$386.31 B
+2023,TSMC,$539.38 B
+2024,TSMC,$1.045 T
+2025,TSMC,$1.466 T
